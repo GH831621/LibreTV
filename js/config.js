@@ -381,7 +381,7 @@ const API_SITES = {
             api: 'https://www.pgxdy.com/api/json.php',
             detail: 'https://www.pgxdy.com'
         },
-        'ffzynew: {
+        ffzynew: {
             api: 'https://api.ffzyapi.com/api.php/provide/vod',
             name: '非凡影视new',
             detail: 'http://ffzy5.tv'
