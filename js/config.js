@@ -386,116 +386,116 @@ const API_SITES = {
             name: '非凡影视new',
             detail: 'http://ffzy5.tv'
         },
-        'jisu: {
+        jisu: {
             api: 'https://jszyapi.com/api.php/provide/vod',
             name: '极速资源',
             detail: 'https://jszyapi.com'
         },
-        'mozhua: {
+        mozhua: {
             api: 'https://mozhuazy.com/api.php/provide/vod',
             name: '魔爪资源'
         },
-        'mdzy: {
+        mdzy: {
             api: 'https://www.mdzyapi.com/api.php/provide/vod',
             name: '魔都资源'
         },
-        'kauiboziyuan: {
+        kauiboziyuan: {
             api: 'https://gayapi.com/api.php/provide/vod',
             name: '快播资源网站'
         },
-        'xingbaziyuan: {
+        xingbaziyuan: {
             api: 'https://xingba111.com/api.php/provide/vod',
             name: '杏吧资源'
         },
-        'liangziziyuan: {
+        liangziziyuan: {
             api: 'https://cj.lziapi.com/api.php/provide/vod',
             name: '量子资源'
         },
-        'senlinziyuan: {
+        senlinziyuan: {
             api: 'https://slapibf.com/api.php/provide/vod',
             name: '森林资源'
         },
-        'aiduanjucc: {
+        aiduanjucc: {
             api: 'https://www.aiduanju.cc/',
             name: '爱短剧.cc'
         },
-        'huaweiba: {
+        huaweiba: {
             api: 'https://huawei8.live/api.php/provide/vod',
             name: '华为吧资源'
         },
-        'taopian: {
+        taopian: {
             api: 'https://taopianapi.com/cjapi/sda/vod',
             name: '淘片资源'
         },
-        'hongniuziyuan: {
+        hongniuziyuan: {
             api: 'https://www.hongniuzy3.com/api.php/provide/vod',
             name: '红牛资源'
         },
-        'suonisandian: {
+        suonisandian: {
             api: 'https://xsd.sdzyapi.com/api.php/provide/vod',
             name: '索尼-闪电资源'
         },
-        'yayaziyuan: {
+        yayaziyuan: {
             api: 'https://cj.yayazy.net/api.php/provide/vod',
             name: '鸭鸭资源'
         },
-        'jinyingziyuan: {
+        jinyingziyuan: {
             api: 'https://jyzyapi.com/provide/vod',
             name: '金鹰资源采集网'
         },
-        'fengchao: {
+        fengchao: {
             api: 'https://api.fczy888.me/api.php/provide/vod',
             name: '蜂巢片库'
         },
-        'jinmaziyuan2: {
+        jinmaziyuan2: {
             api: 'https://api.jmzy.com/api.php/provide/vod',
             name: '金马资源网'
         },
-        'dadiziy: {
+        dadiziy: {
             api: 'https://dadiapi.com/api.php/provide/vod',
             name: '大地资源网络'
         },
-        'huangseziy: {
+        huangseziy: {
             api: 'https://hsckzy888.com/api.php/provide/vod',
             name: '黄色资源啊啊'
         },
-        'xiaojiziy: {
+        xiaojiziy: {
             api: 'https://api.xiaojizy.live/provide/vod',
             name: '小鸡资源'
         },
-        'kauicheziyuan: {
+        kauicheziyuan: {
             api: 'https://caiji.kuaichezy.org/api.php/provide',
             name: '快车资源阿'
         },
-        'xinlangaa: {
+        xinlangaa: {
             api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod',
             name: '新浪资源阿'
         },
-        'lajiaoziyu: {
+        lajiaoziyu: {
             api: 'https://apilj.com/api.php/provide',
             name: '辣椒资源黄黄'
         },
-        'youzhidianying: {
+        youzhidianying: {
             api: 'https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod',
             name: '优质资源库1080zyk6.com高清'
         },
-        'iqiyi: {
+        iqiyi: {
             api: 'https://www.iqiyizyapi.com/api.php/provide/vod',
             name: 'iqiyi资源'
         },
-        'xibaocaiji: {
+        xibaocaiji: {
             api: 'https://www.xxibaozyw.com/api.php/provide/vod',
             name: '细胞采集黄色'
         },
-        'qiqiqiqi: {
+        qiqiqiqi: {
             api: 'https://www.qiqidys.com/api.php/provide/vod/',
             name: '七七影视'
         },
-        'yingshigongchang: {
+        yingshigongchang: {
             api: 'https://cj.lziapi.com/api.php/provide/vod/',
             name: '影视工厂'
         },
-        'fantuanyingshi: {
+        fantuanyingshi: {
             api: 'https://www.fantuan.tv/api.php/provide/vod/',
             name: '饭团影视'
         }
